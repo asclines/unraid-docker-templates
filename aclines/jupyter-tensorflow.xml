@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>tensorflow-notebook</Name>
+  <Name>jupyter-tensorflow</Name>
   <Repository>jupyter/tensorflow-notebook</Repository>
   <Registry>https://hub.docker.com/r/jupyter/tensorflow-notebook/~/dockerfile/</Registry>
   <Network>bridge</Network>
