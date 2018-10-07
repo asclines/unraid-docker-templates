@@ -7,15 +7,15 @@
   <MyIP/>
   <Privileged>false</Privileged>
   <Support>https://hub.docker.com/r/aclines/nlp-notebook/</Support>
-  <Overview>Jupyter Notebook NLP Stack[br][br][b]Converted By Community Applications[/b][br][br]Always verify this template (and values) against the dockerhub support page for the container</Overview>
+  <Overview>Jupyter Notebook NLP Stack</Overview>
   <Category/>
   <WebUI>http://[IP]:[PORT:8888]</WebUI>
   <TemplateURL/>
   <Icon>/plugins/dynamix.docker.manager/images/question.png</Icon>
   <ExtraParams/>
   <PostArgs/>
-  <DateInstalled>1538940631</DateInstalled>
-  <Description>Jupyter Notebook NLP Stack[br][br][b]Converted By Community Applications[/b][br][br]Always verify this template (and values) against the dockerhub support page for the container</Description>
+  <DateInstalled>1538940857</DateInstalled>
+  <Description>Jupyter Notebook NLP Stack</Description>
   <Networking>
     <Mode>bridge</Mode>
     <Publish>
