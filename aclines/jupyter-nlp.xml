@@ -40,6 +40,6 @@
   </Data>
   <Environment/>
   <Config Name="UI Port" Target="8888" Default="8888" Mode="tcp" Description="Connect to the notebook at this port." Type="Port" Display="always" Required="false" Mask="false">8888</Config>
-  <Config Name="Notebooks Directory" Target="/home/jovyan/work" Default="" Mode="rw" Description="Container Path: /home/jovyan/work" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/insync/Jupyter Notebooks</Config>
+  <Config Name="Notebooks Directory" Target="/home/jovyan/work" Default="" Mode="rw" Description="Container Path: /home/jovyan/work" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/notebooks</Config>
   <Config Name="NLTK Data Location" Target="/home/jovyan/nltk_data" Default="/mnt/user/appdata/notebooks/nltk_data" Mode="rw" Description="Output of nltk.download() goes here." Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/notebooks/nltk_data</Config>
 </Container>
