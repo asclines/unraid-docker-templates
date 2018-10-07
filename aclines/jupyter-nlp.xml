@@ -28,7 +28,7 @@
   </Networking>
   <Data>
     <Volume>
-      <HostDir>/mnt/user/insync/Jupyter Notebooks</HostDir>
+      <HostDir>/mnt/user/appdata/notebooks</HostDir>
       <ContainerDir>/home/jovyan/work</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
